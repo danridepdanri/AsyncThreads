@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoApp", "CryptoApp\CryptoApp.csproj", "{CF09FACE-27C3-401B-B07A-A6E167F759FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab24Task1", "lab24Task1\lab24Task1.csproj", "{3661E80D-04C3-46F7-9089-02D2FECF7694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF09FACE-27C3-401B-B07A-A6E167F759FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF09FACE-27C3-401B-B07A-A6E167F759FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF09FACE-27C3-401B-B07A-A6E167F759FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF09FACE-27C3-401B-B07A-A6E167F759FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3661E80D-04C3-46F7-9089-02D2FECF7694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3661E80D-04C3-46F7-9089-02D2FECF7694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3661E80D-04C3-46F7-9089-02D2FECF7694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3661E80D-04C3-46F7-9089-02D2FECF7694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F30A364-1652-4160-8CC8-4DBEA360AEAA}
+	EndGlobalSection
+EndGlobal
